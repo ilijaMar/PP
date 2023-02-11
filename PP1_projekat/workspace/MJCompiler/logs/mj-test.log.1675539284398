@@ -1,0 +1,25 @@
+INFO  20:30:43,503 - Compiling source file: C:\Users\Ilija\Desktop\PP1\radi-sintaksna - Copy\workspace\MJCompiler\test\program.mj
+INFO  20:30:43,545 - #2 program
+INFO  20:30:43,545 - #17 syntax_errors
+INFO  20:30:43,545 - #17 int
+INFO  20:30:43,546 - #17 a
+INFO  20:30:43,547 - #22 +
+ERROR 20:30:43,547 - 
+Sintaksna greska na liniji 3
+INFO  20:30:43,547 - #38 ;
+INFO  20:30:43,547 - #17 int
+INFO  20:30:43,547 - #17 a
+INFO  20:30:43,548 - #22 +
+ERROR 20:30:43,548 - 
+Sintaksna greska na liniji 4
+INFO  20:30:43,548 - #40 ,
+INFO  20:30:43,548 - #17 b
+INFO  20:30:43,548 - #38 ;
+INFO  20:30:43,548 - #3 class
+INFO  20:30:43,550 - #17 A
+INFO  20:30:43,550 - #14 extends
+INFO  20:30:43,550 - #17 B
+INFO  20:30:43,550 - #22 +
+ERROR 20:30:43,551 - 
+Sintaksna greska na liniji 6
+ERROR 20:30:43,551 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 6

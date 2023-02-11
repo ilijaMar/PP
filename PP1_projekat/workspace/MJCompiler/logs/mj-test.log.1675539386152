@@ -1,0 +1,60 @@
+INFO  20:35:46,469 - Compiling source file: C:\Users\Ilija\Desktop\PP1\radi-sintaksna - Copy\workspace\MJCompiler\test\program.mj
+INFO  20:35:46,513 - #2 program
+INFO  20:35:46,513 - #17 syntax_errors
+INFO  20:35:46,513 - #17 int
+INFO  20:35:46,514 - #17 a
+INFO  20:35:46,516 - #40 ,
+INFO  20:35:46,516 - #38 ;
+ERROR 20:35:46,516 - 
+Sintaksna greska na liniji 3
+INFO  20:35:46,517 - #46 {
+INFO  20:35:46,517 - #13 void
+INFO  20:35:46,517 - #17 main
+INFO  20:35:46,518 - #42 (
+INFO  20:35:46,518 - #43 )
+INFO  20:35:46,518 - #46 {
+INFO  20:35:46,519 - #17 b
+INFO  20:35:46,519 - #35 =
+INFO  20:35:46,520 - #16 43
+INFO  20:35:46,521 - #22 +
+INFO  20:35:46,521 - #16 123
+INFO  20:35:46,522 - #22 +
+INFO  20:35:46,523 - #38 ;
+ERROR 20:35:46,523 - 
+Sintaksna greska na liniji 11
+INFO  20:35:46,523 - #17 b
+INFO  20:35:46,523 - #35 =
+INFO  20:35:46,523 - #16 123
+INFO  20:35:46,525 - #38 ;
+INFO  20:35:46,525 - #17 b
+INFO  20:35:46,525 - #35 =
+INFO  20:35:46,525 - #16 43
+INFO  20:35:46,525 - #22 +
+INFO  20:35:46,525 - #16 123
+INFO  20:35:46,526 - #22 +
+INFO  20:35:46,526 - #38 ;
+ERROR 20:35:46,526 - 
+Sintaksna greska na liniji 13
+INFO  20:35:46,526 - #7 if
+INFO  20:35:46,526 - #42 (
+INFO  20:35:46,526 - #17 a
+INFO  20:35:46,526 - #22 +
+INFO  20:35:46,527 - #29 >
+ERROR 20:35:46,527 - 
+Sintaksna greska na liniji 14
+INFO  20:35:46,527 - #17 b
+INFO  20:35:46,527 - #43 )
+INFO  20:35:46,528 - #46 {
+INFO  20:35:46,528 - #17 b
+INFO  20:35:46,528 - #35 =
+INFO  20:35:46,528 - #16 43
+INFO  20:35:46,528 - #22 +
+INFO  20:35:46,528 - #16 123
+INFO  20:35:46,529 - #22 +
+INFO  20:35:46,529 - #38 ;
+INFO  20:35:46,529 - #47 }
+INFO  20:35:46,529 - #47 }
+INFO  20:35:46,529 - #47 }
+ERROR 20:35:46,529 - 
+Sintaksna greska na liniji 18
+ERROR 20:35:46,529 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 18

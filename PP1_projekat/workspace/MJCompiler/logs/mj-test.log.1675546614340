@@ -1,0 +1,150 @@
+INFO  22:34:02,529 - Compiling source file: C:\Users\Ilija\Desktop\PP1\radi-sintaksna - Copy\workspace\MJCompiler\test\program.mj
+INFO  22:34:02,569 - #2 program
+INFO  22:34:02,569 - #17 syntax_errors
+INFO  22:34:02,569 - #17 int
+INFO  22:34:02,570 - #17 a
+INFO  22:34:02,571 - #22 +
+ERROR 22:34:02,571 - 
+Sintaksna greska na liniji 3
+INFO  22:34:02,571 - #38 ;
+INFO  22:34:02,571 - #17 int
+INFO  22:34:02,571 - #17 b
+INFO  22:34:02,572 - #38 ;
+INFO  22:34:02,572 - #46 {
+INFO  22:34:02,573 - #13 void
+INFO  22:34:02,573 - #17 main
+INFO  22:34:02,573 - #42 (
+INFO  22:34:02,573 - #43 )
+INFO  22:34:02,574 - #46 {
+INFO  22:34:02,574 - #17 b
+INFO  22:34:02,575 - #35 =
+INFO  22:34:02,576 - #16 43
+INFO  22:34:02,576 - #22 +
+INFO  22:34:02,577 - #16 123
+INFO  22:34:02,578 - #22 +
+INFO  22:34:02,578 - #38 ;
+ERROR 22:34:02,578 - 
+Sintaksna greska na liniji 11
+INFO  22:34:02,578 - #17 b
+INFO  22:34:02,578 - #35 =
+INFO  22:34:02,578 - #16 123
+INFO  22:34:02,579 - #38 ;
+INFO  22:34:02,579 - #17 b
+INFO  22:34:02,579 - #35 =
+INFO  22:34:02,579 - #16 43
+INFO  22:34:02,580 - #22 +
+INFO  22:34:02,580 - #16 123
+INFO  22:34:02,580 - #22 +
+INFO  22:34:02,580 - #38 ;
+ERROR 22:34:02,580 - 
+Sintaksna greska na liniji 13
+INFO  22:34:02,580 - #11 print
+INFO  22:34:02,580 - #42 (
+INFO  22:34:02,580 - #16 5
+INFO  22:34:02,580 - #43 )
+INFO  22:34:02,580 - #38 ;
+INFO  22:34:02,581 - #47 }
+INFO  22:34:02,581 - #47 }
+INFO  22:34:02,584 - Program(
+  ProgName(
+   syntax_errors
+  ) [ProgName]
+  Declarations(
+    Declarations(
+      NoDeclarationList(
+      ) [NoDeclarationList]
+      VarDeclaration(
+        VarDeclError(
+          VarType(
+            Type(
+             int
+            ) [Type]
+          ) [VarType]
+        ) [VarDeclError]
+      ) [VarDeclaration]
+    ) [Declarations]
+    VarDeclaration(
+      Var_Declaration(
+        VarType(
+          Type(
+           int
+          ) [Type]
+        ) [VarType]
+        NoVarIdentList(
+        ) [NoVarIdentList]
+        Var_Ident(
+         b
+          NoArrayDeclaration(
+          ) [NoArrayDeclaration]
+        ) [Var_Ident]
+      ) [Var_Declaration]
+    ) [VarDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodNameVoid(
+       main
+      ) [MethodNameVoid]
+      NoFormParsList(
+      ) [NoFormParsList]
+      NoVarDecl(
+      ) [NoVarDecl]
+      Statement_List(
+        Statement_List(
+          Statement_List(
+            Statement_List(
+              NoStatementList(
+              ) [NoStatementList]
+              AssignExpressionError(
+              ) [AssignExpressionError]
+            ) [Statement_List]
+            AssignDesig(
+              DesignatorStatementOptionFirst(
+                DesignatorZaDodeluExp(
+                  DesignatorExpr(
+                    DesignatorName(
+                     b
+                    ) [DesignatorName]
+                    NoDesignatorList(
+                    ) [NoDesignatorList]
+                  ) [DesignatorExpr]
+                ) [DesignatorZaDodeluExp]
+                Assignop(
+                ) [Assignop]
+                TermExpression(
+                  Term(
+                    TermFactor(
+                      FactorNum(
+                       123
+                      ) [FactorNum]
+                    ) [TermFactor]
+                  ) [Term]
+                ) [TermExpression]
+              ) [DesignatorStatementOptionFirst]
+            ) [AssignDesig]
+          ) [Statement_List]
+          AssignExpressionError(
+          ) [AssignExpressionError]
+        ) [Statement_List]
+        PrintSt(
+          TermExpression(
+            Term(
+              TermFactor(
+                FactorNum(
+                 5
+                ) [FactorNum]
+              ) [TermFactor]
+            ) [Term]
+          ) [TermExpression]
+        ) [PrintSt]
+      ) [Statement_List]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  22:34:02,584 - ===================================
+INFO  22:34:02,588 - Prepoznao promenljivu:b  trenutni tip je: 1 na liniji 4
+INFO  22:34:02,588 - Prepoznao VOID metodu:main na liniji 10
+INFO  22:34:02,588 - ===================================
+INFO  22:34:02,590 - Parsiranje uspesno zavrseno

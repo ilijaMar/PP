@@ -1,0 +1,93 @@
+INFO  23:01:38,362 - Compiling source file: C:\Users\Ilija\Desktop\PP1\radi-sintaksna - Copy\workspace\MJCompiler\test\program.mj
+INFO  23:01:38,400 - #2 program
+INFO  23:01:38,400 - #17 syntax_errors
+INFO  23:01:38,400 - #17 int
+INFO  23:01:38,401 - #17 a
+INFO  23:01:38,401 - #22 +
+ERROR 23:01:38,402 - 
+Sintaksna greska na liniji 3
+INFO  23:01:38,402 - #38 ;
+INFO  23:01:38,402 - #17 int
+INFO  23:01:38,402 - #17 b
+INFO  23:01:38,403 - #22 +
+ERROR 23:01:38,403 -  -Izvrsen oporavak do ; u liniji 0
+ERROR 23:01:38,403 - 
+Sintaksna greska na liniji 4
+INFO  23:01:38,403 - #38 ;
+INFO  23:01:38,403 - #46 {
+INFO  23:01:38,403 - #13 void
+INFO  23:01:38,403 - #17 main
+ERROR 23:01:38,404 -  -Izvrsen oporavak do ; u liniji 0
+INFO  23:01:38,404 - #42 (
+INFO  23:01:38,405 - #43 )
+INFO  23:01:38,405 - #46 {
+INFO  23:01:38,405 - #11 print
+INFO  23:01:38,406 - #42 (
+INFO  23:01:38,406 - #16 5
+INFO  23:01:38,406 - #43 )
+INFO  23:01:38,407 - #38 ;
+INFO  23:01:38,407 - #47 }
+INFO  23:01:38,407 - #47 }
+INFO  23:01:38,410 - Program(
+  ProgName(
+   syntax_errors
+  ) [ProgName]
+  Declarations(
+    Declarations(
+      NoDeclarationList(
+      ) [NoDeclarationList]
+      VarDeclaration(
+        VarDeclError(
+          VarType(
+            Type(
+             int
+            ) [Type]
+          ) [VarType]
+        ) [VarDeclError]
+      ) [VarDeclaration]
+    ) [Declarations]
+    VarDeclaration(
+      VarDeclError(
+        VarType(
+          Type(
+           int
+          ) [Type]
+        ) [VarType]
+      ) [VarDeclError]
+    ) [VarDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodNameVoid(
+       main
+      ) [MethodNameVoid]
+      NoFormParsList(
+      ) [NoFormParsList]
+      NoVarDecl(
+      ) [NoVarDecl]
+      Statement_List(
+        NoStatementList(
+        ) [NoStatementList]
+        PrintSt(
+          TermExpression(
+            Term(
+              TermFactor(
+                FactorNum(
+                 5
+                ) [FactorNum]
+              ) [TermFactor]
+            ) [Term]
+          ) [TermExpression]
+        ) [PrintSt]
+      ) [Statement_List]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  23:01:38,411 - ===================================
+INFO  23:01:38,414 - Prepoznao VOID metodu:main na liniji 10
+INFO  23:01:38,414 - ===================================
+INFO  23:01:38,414 - Parsiranje NIJE uspesno zavrseno
+INFO  23:01:38,414 - GRESAKA U PARS:true
+INFO  23:01:38,414 - GRESAKA U SEM:false

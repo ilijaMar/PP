@@ -1,0 +1,117 @@
+INFO  23:06:13,781 - Compiling source file: C:\Users\Ilija\Desktop\PP1\radi-sintaksna - Copy\workspace\MJCompiler\test\program.mj
+INFO  23:06:13,822 - #2 program
+INFO  23:06:13,822 - #17 syntax_errors
+INFO  23:06:13,823 - #17 int
+INFO  23:06:13,823 - #17 a
+INFO  23:06:13,825 - #22 +
+ERROR 23:06:13,825 - 
+Sintaksna greska na liniji 3
+INFO  23:06:13,825 - #38 ;
+INFO  23:06:13,825 - #17 int
+INFO  23:06:13,825 - #17 b
+INFO  23:06:13,826 - #22 +
+ERROR 23:06:13,826 -  -Izvrsen oporavak **DEKL** do ; u liniji 0
+ERROR 23:06:13,826 - 
+Sintaksna greska na liniji 4
+INFO  23:06:13,826 - #40 ,
+INFO  23:06:13,826 - #17 c
+INFO  23:06:13,826 - #38 ;
+INFO  23:06:13,826 - #46 {
+ERROR 23:06:13,827 -  -Izvrsen oporavak **DEKL** do , u liniji 0
+INFO  23:06:13,828 - #13 void
+INFO  23:06:13,828 - #17 main
+INFO  23:06:13,828 - #42 (
+INFO  23:06:13,828 - #43 )
+INFO  23:06:13,829 - #46 {
+INFO  23:06:13,829 - #17 b
+INFO  23:06:13,830 - #35 =
+INFO  23:06:13,831 - #16 1
+INFO  23:06:13,831 - #22 +
+INFO  23:06:13,832 - #16 2
+INFO  23:06:13,832 - #22 +
+INFO  23:06:13,833 - #38 ;
+ERROR 23:06:13,833 - 
+Sintaksna greska na liniji 11
+INFO  23:06:13,833 - #11 print
+INFO  23:06:13,833 - #42 (
+INFO  23:06:13,833 - #16 5
+ERROR 23:06:13,833 -  -Izvrsen oporavak **DODELA** do ; u liniji 11
+INFO  23:06:13,834 - #43 )
+INFO  23:06:13,834 - #38 ;
+INFO  23:06:13,834 - #47 }
+INFO  23:06:13,835 - #47 }
+INFO  23:06:13,838 - Program(
+  ProgName(
+   syntax_errors
+  ) [ProgName]
+  Declarations(
+    Declarations(
+      NoDeclarationList(
+      ) [NoDeclarationList]
+      VarDeclaration(
+        VarDeclError(
+          VarType(
+            Type(
+             int
+            ) [Type]
+          ) [VarType]
+        ) [VarDeclError]
+      ) [VarDeclaration]
+    ) [Declarations]
+    VarDeclaration(
+      Var_Declaration(
+        VarType(
+          Type(
+           int
+          ) [Type]
+        ) [VarType]
+        VarIdentError(
+        ) [VarIdentError]
+        Var_Ident(
+         c
+          NoArrayDeclaration(
+          ) [NoArrayDeclaration]
+        ) [Var_Ident]
+      ) [Var_Declaration]
+    ) [VarDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodNameVoid(
+       main
+      ) [MethodNameVoid]
+      NoFormParsList(
+      ) [NoFormParsList]
+      NoVarDecl(
+      ) [NoVarDecl]
+      Statement_List(
+        Statement_List(
+          NoStatementList(
+          ) [NoStatementList]
+          AssignExpressionError(
+          ) [AssignExpressionError]
+        ) [Statement_List]
+        PrintSt(
+          TermExpression(
+            Term(
+              TermFactor(
+                FactorNum(
+                 5
+                ) [FactorNum]
+              ) [TermFactor]
+            ) [Term]
+          ) [TermExpression]
+        ) [PrintSt]
+      ) [Statement_List]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  23:06:13,838 - ===================================
+INFO  23:06:13,841 - Prepoznao promenljivu:c  trenutni tip je: 1 na liniji 4
+INFO  23:06:13,841 - Prepoznao VOID metodu:main na liniji 10
+INFO  23:06:13,842 - ===================================
+INFO  23:06:13,842 - Parsiranje NIJE uspesno zavrseno
+INFO  23:06:13,842 - GRESAKA U PARS:true
+INFO  23:06:13,842 - GRESAKA U SEM:false

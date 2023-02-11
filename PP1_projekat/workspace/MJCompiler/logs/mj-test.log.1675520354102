@@ -1,0 +1,966 @@
+INFO  15:18:06,282 - Compiling source file: C:\Users\Ilija\Desktop\PP1\radi-sintaksna - Copy\workspace\MJCompiler\test\program.mj
+INFO  15:18:06,325 - #2 program
+INFO  15:18:06,325 - #17 test_A_successful
+INFO  15:18:06,326 - #17 int
+INFO  15:18:06,326 - #17 a
+INFO  15:18:06,327 - #40 ,
+INFO  15:18:06,328 - #17 b
+INFO  15:18:06,328 - #40 ,
+INFO  15:18:06,328 - #17 c
+INFO  15:18:06,328 - #40 ,
+INFO  15:18:06,328 - #17 d
+INFO  15:18:06,328 - #40 ,
+INFO  15:18:06,328 - #17 e
+INFO  15:18:06,328 - #40 ,
+INFO  15:18:06,329 - #17 intArray
+INFO  15:18:06,329 - #44 [
+INFO  15:18:06,329 - #45 ]
+INFO  15:18:06,329 - #40 ,
+INFO  15:18:06,329 - #17 niz
+INFO  15:18:06,329 - #44 [
+INFO  15:18:06,329 - #45 ]
+INFO  15:18:06,329 - #40 ,
+INFO  15:18:06,330 - #17 nizTmp
+INFO  15:18:06,330 - #44 [
+INFO  15:18:06,330 - #45 ]
+INFO  15:18:06,330 - #40 ,
+INFO  15:18:06,330 - #17 nizIndex
+INFO  15:18:06,330 - #44 [
+INFO  15:18:06,330 - #45 ]
+INFO  15:18:06,330 - #38 ;
+INFO  15:18:06,331 - #46 {
+INFO  15:18:06,331 - #13 void
+INFO  15:18:06,331 - #17 main
+INFO  15:18:06,332 - #42 (
+INFO  15:18:06,332 - #43 )
+INFO  15:18:06,332 - #46 {
+INFO  15:18:06,348 - #11 print
+INFO  15:18:06,349 - #42 (
+INFO  15:18:06,349 - #19 t
+INFO  15:18:06,349 - #43 )
+INFO  15:18:06,350 - #38 ;
+INFO  15:18:06,350 - #11 print
+INFO  15:18:06,350 - #42 (
+INFO  15:18:06,351 - #19 e
+INFO  15:18:06,351 - #43 )
+INFO  15:18:06,351 - #38 ;
+INFO  15:18:06,351 - #11 print
+INFO  15:18:06,351 - #42 (
+INFO  15:18:06,351 - #19 s
+INFO  15:18:06,351 - #43 )
+INFO  15:18:06,351 - #38 ;
+INFO  15:18:06,352 - #11 print
+INFO  15:18:06,352 - #42 (
+INFO  15:18:06,352 - #19 t
+INFO  15:18:06,352 - #43 )
+INFO  15:18:06,352 - #38 ;
+INFO  15:18:06,352 - #11 print
+INFO  15:18:06,352 - #42 (
+INFO  15:18:06,352 - #19  
+INFO  15:18:06,352 - #43 )
+INFO  15:18:06,353 - #38 ;
+INFO  15:18:06,353 - #11 print
+INFO  15:18:06,353 - #42 (
+INFO  15:18:06,353 - #19 a
+INFO  15:18:06,353 - #43 )
+INFO  15:18:06,353 - #38 ;
+INFO  15:18:06,353 - #11 print
+INFO  15:18:06,353 - #42 (
+INFO  15:18:06,353 - #19 r
+INFO  15:18:06,353 - #43 )
+INFO  15:18:06,354 - #38 ;
+INFO  15:18:06,354 - #11 print
+INFO  15:18:06,354 - #42 (
+INFO  15:18:06,354 - #19 r
+INFO  15:18:06,354 - #43 )
+INFO  15:18:06,354 - #38 ;
+INFO  15:18:06,354 - #11 print
+INFO  15:18:06,354 - #42 (
+INFO  15:18:06,354 - #19 E
+INFO  15:18:06,354 - #43 )
+INFO  15:18:06,355 - #38 ;
+INFO  15:18:06,355 - #11 print
+INFO  15:18:06,355 - #42 (
+INFO  15:18:06,355 - #19 l
+INFO  15:18:06,355 - #43 )
+INFO  15:18:06,355 - #38 ;
+INFO  15:18:06,355 - #11 print
+INFO  15:18:06,355 - #42 (
+INFO  15:18:06,355 - #19 e
+INFO  15:18:06,355 - #43 )
+INFO  15:18:06,355 - #38 ;
+INFO  15:18:06,356 - #11 print
+INFO  15:18:06,356 - #42 (
+INFO  15:18:06,356 - #19 m
+INFO  15:18:06,356 - #43 )
+INFO  15:18:06,356 - #38 ;
+INFO  15:18:06,356 - #11 print
+INFO  15:18:06,356 - #42 (
+INFO  15:18:06,356 - #19  
+INFO  15:18:06,356 - #43 )
+INFO  15:18:06,357 - #38 ;
+INFO  15:18:06,357 - #11 print
+INFO  15:18:06,357 - #42 (
+INFO  15:18:06,357 - #19 i
+INFO  15:18:06,357 - #43 )
+INFO  15:18:06,357 - #38 ;
+INFO  15:18:06,357 - #11 print
+INFO  15:18:06,358 - #42 (
+INFO  15:18:06,358 - #19 n
+INFO  15:18:06,358 - #43 )
+INFO  15:18:06,358 - #38 ;
+INFO  15:18:06,358 - #11 print
+INFO  15:18:06,358 - #42 (
+INFO  15:18:06,358 - #19 c
+INFO  15:18:06,358 - #43 )
+INFO  15:18:06,358 - #38 ;
+INFO  15:18:06,359 - #11 print
+INFO  15:18:06,359 - #42 (
+INFO  15:18:06,359 - #19 /
+INFO  15:18:06,359 - #43 )
+INFO  15:18:06,359 - #38 ;
+INFO  15:18:06,359 - #11 print
+INFO  15:18:06,359 - #42 (
+INFO  15:18:06,359 - #19 d
+INFO  15:18:06,359 - #43 )
+INFO  15:18:06,359 - #38 ;
+INFO  15:18:06,360 - #11 print
+INFO  15:18:06,360 - #42 (
+INFO  15:18:06,360 - #19 e
+INFO  15:18:06,360 - #43 )
+INFO  15:18:06,360 - #38 ;
+INFO  15:18:06,360 - #11 print
+INFO  15:18:06,360 - #42 (
+INFO  15:18:06,360 - #19 c
+INFO  15:18:06,360 - #43 )
+INFO  15:18:06,360 - #38 ;
+INFO  15:18:06,361 - #11 print
+INFO  15:18:06,361 - #42 (
+INFO  15:18:06,361 - #17 eol
+INFO  15:18:06,361 - #43 )
+INFO  15:18:06,362 - #38 ;
+INFO  15:18:06,363 - #17 niz
+INFO  15:18:06,363 - #35 =
+INFO  15:18:06,363 - #10 new
+INFO  15:18:06,363 - #17 int
+INFO  15:18:06,363 - #44 [
+INFO  15:18:06,364 - #16 5
+INFO  15:18:06,364 - #45 ]
+INFO  15:18:06,364 - #38 ;
+INFO  15:18:06,364 - #17 niz
+INFO  15:18:06,364 - #44 [
+INFO  15:18:06,365 - #16 0
+INFO  15:18:06,365 - #45 ]
+INFO  15:18:06,365 - #36 ++
+INFO  15:18:06,366 - #38 ;
+INFO  15:18:06,366 - #17 niz
+INFO  15:18:06,366 - #44 [
+INFO  15:18:06,367 - #16 4
+INFO  15:18:06,367 - #45 ]
+INFO  15:18:06,367 - #37 --
+INFO  15:18:06,367 - #38 ;
+INFO  15:18:06,368 - #17 niz
+INFO  15:18:06,368 - #44 [
+INFO  15:18:06,368 - #17 niz
+INFO  15:18:06,368 - #44 [
+INFO  15:18:06,368 - #16 0
+INFO  15:18:06,368 - #45 ]
+INFO  15:18:06,368 - #45 ]
+INFO  15:18:06,369 - #36 ++
+INFO  15:18:06,369 - #38 ;
+INFO  15:18:06,369 - #17 niz
+INFO  15:18:06,369 - #44 [
+INFO  15:18:06,369 - #17 niz
+INFO  15:18:06,369 - #44 [
+INFO  15:18:06,369 - #16 0
+INFO  15:18:06,369 - #45 ]
+INFO  15:18:06,369 - #24 *
+INFO  15:18:06,369 - #16 2
+INFO  15:18:06,370 - #22 +
+INFO  15:18:06,370 - #17 niz
+INFO  15:18:06,371 - #44 [
+INFO  15:18:06,371 - #16 1
+INFO  15:18:06,371 - #45 ]
+INFO  15:18:06,372 - #45 ]
+INFO  15:18:06,372 - #36 ++
+INFO  15:18:06,372 - #38 ;
+INFO  15:18:06,372 - #11 print
+INFO  15:18:06,372 - #42 (
+INFO  15:18:06,372 - #17 niz
+INFO  15:18:06,372 - #44 [
+INFO  15:18:06,372 - #16 0
+INFO  15:18:06,372 - #45 ]
+INFO  15:18:06,372 - #43 )
+INFO  15:18:06,373 - #38 ;
+INFO  15:18:06,373 - #11 print
+INFO  15:18:06,373 - #42 (
+INFO  15:18:06,373 - #17 niz
+INFO  15:18:06,373 - #44 [
+INFO  15:18:06,373 - #16 1
+INFO  15:18:06,373 - #45 ]
+INFO  15:18:06,373 - #43 )
+INFO  15:18:06,373 - #38 ;
+INFO  15:18:06,373 - #11 print
+INFO  15:18:06,373 - #42 (
+INFO  15:18:06,374 - #17 niz
+INFO  15:18:06,374 - #44 [
+INFO  15:18:06,374 - #16 2
+INFO  15:18:06,374 - #45 ]
+INFO  15:18:06,374 - #43 )
+INFO  15:18:06,374 - #38 ;
+INFO  15:18:06,374 - #11 print
+INFO  15:18:06,374 - #42 (
+INFO  15:18:06,374 - #17 niz
+INFO  15:18:06,375 - #44 [
+INFO  15:18:06,375 - #16 3
+INFO  15:18:06,375 - #45 ]
+INFO  15:18:06,375 - #43 )
+INFO  15:18:06,375 - #38 ;
+INFO  15:18:06,375 - #11 print
+INFO  15:18:06,375 - #42 (
+INFO  15:18:06,375 - #17 niz
+INFO  15:18:06,375 - #44 [
+INFO  15:18:06,375 - #16 4
+INFO  15:18:06,376 - #45 ]
+INFO  15:18:06,376 - #43 )
+INFO  15:18:06,376 - #38 ;
+INFO  15:18:06,376 - #11 print
+INFO  15:18:06,376 - #42 (
+INFO  15:18:06,376 - #17 eol
+INFO  15:18:06,376 - #43 )
+INFO  15:18:06,376 - #38 ;
+INFO  15:18:06,376 - #47 }
+INFO  15:18:06,376 - #47 }
+INFO  15:18:06,382 - Program(
+  ProgName(
+   test_A_successful
+  ) [ProgName]
+  Declarations(
+    NoDeclarationList(
+    ) [NoDeclarationList]
+    VarDeclaration(
+      Var_Declaration(
+        VarType(
+          Type(
+           int
+          ) [Type]
+        ) [VarType]
+        VarIdent_List(
+          VarIdent_List(
+            VarIdent_List(
+              VarIdent_List(
+                VarIdent_List(
+                  VarIdent_List(
+                    VarIdent_List(
+                      VarIdent_List(
+                        NoVarIdentList(
+                        ) [NoVarIdentList]
+                        Var_Ident(
+                         a
+                          NoArrayDeclaration(
+                          ) [NoArrayDeclaration]
+                        ) [Var_Ident]
+                      ) [VarIdent_List]
+                      Var_Ident(
+                       b
+                        NoArrayDeclaration(
+                        ) [NoArrayDeclaration]
+                      ) [Var_Ident]
+                    ) [VarIdent_List]
+                    Var_Ident(
+                     c
+                      NoArrayDeclaration(
+                      ) [NoArrayDeclaration]
+                    ) [Var_Ident]
+                  ) [VarIdent_List]
+                  Var_Ident(
+                   d
+                    NoArrayDeclaration(
+                    ) [NoArrayDeclaration]
+                  ) [Var_Ident]
+                ) [VarIdent_List]
+                Var_Ident(
+                 e
+                  NoArrayDeclaration(
+                  ) [NoArrayDeclaration]
+                ) [Var_Ident]
+              ) [VarIdent_List]
+              Var_Ident(
+               intArray
+                ArrayDeclaration(
+                  NoArrayDeclaration(
+                  ) [NoArrayDeclaration]
+                ) [ArrayDeclaration]
+              ) [Var_Ident]
+            ) [VarIdent_List]
+            Var_Ident(
+             niz
+              ArrayDeclaration(
+                NoArrayDeclaration(
+                ) [NoArrayDeclaration]
+              ) [ArrayDeclaration]
+            ) [Var_Ident]
+          ) [VarIdent_List]
+          Var_Ident(
+           nizTmp
+            ArrayDeclaration(
+              NoArrayDeclaration(
+              ) [NoArrayDeclaration]
+            ) [ArrayDeclaration]
+          ) [Var_Ident]
+        ) [VarIdent_List]
+        Var_Ident(
+         nizIndex
+          ArrayDeclaration(
+            NoArrayDeclaration(
+            ) [NoArrayDeclaration]
+          ) [ArrayDeclaration]
+        ) [Var_Ident]
+      ) [Var_Declaration]
+    ) [VarDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodNameVoid(
+       main
+      ) [MethodNameVoid]
+      NoFormParsList(
+      ) [NoFormParsList]
+      NoVarDecl(
+      ) [NoVarDecl]
+      Statement_List(
+        Statement_List(
+          Statement_List(
+            Statement_List(
+              Statement_List(
+                Statement_List(
+                  Statement_List(
+                    Statement_List(
+                      Statement_List(
+                        Statement_List(
+                          Statement_List(
+                            Statement_List(
+                              Statement_List(
+                                Statement_List(
+                                  Statement_List(
+                                    Statement_List(
+                                      Statement_List(
+                                        Statement_List(
+                                          Statement_List(
+                                            Statement_List(
+                                              Statement_List(
+                                                Statement_List(
+                                                  Statement_List(
+                                                    Statement_List(
+                                                      Statement_List(
+                                                        Statement_List(
+                                                          Statement_List(
+                                                            Statement_List(
+                                                              Statement_List(
+                                                                Statement_List(
+                                                                  Statement_List(
+                                                                    Statement_List(
+                                                                      NoStatementList(
+                                                                      ) [NoStatementList]
+                                                                      PrintSt(
+                                                                        TermExpression(
+                                                                          Term(
+                                                                            TermFactor(
+                                                                              FactorChar(
+                                                                               t
+                                                                              ) [FactorChar]
+                                                                            ) [TermFactor]
+                                                                          ) [Term]
+                                                                        ) [TermExpression]
+                                                                      ) [PrintSt]
+                                                                    ) [Statement_List]
+                                                                    PrintSt(
+                                                                      TermExpression(
+                                                                        Term(
+                                                                          TermFactor(
+                                                                            FactorChar(
+                                                                             e
+                                                                            ) [FactorChar]
+                                                                          ) [TermFactor]
+                                                                        ) [Term]
+                                                                      ) [TermExpression]
+                                                                    ) [PrintSt]
+                                                                  ) [Statement_List]
+                                                                  PrintSt(
+                                                                    TermExpression(
+                                                                      Term(
+                                                                        TermFactor(
+                                                                          FactorChar(
+                                                                           s
+                                                                          ) [FactorChar]
+                                                                        ) [TermFactor]
+                                                                      ) [Term]
+                                                                    ) [TermExpression]
+                                                                  ) [PrintSt]
+                                                                ) [Statement_List]
+                                                                PrintSt(
+                                                                  TermExpression(
+                                                                    Term(
+                                                                      TermFactor(
+                                                                        FactorChar(
+                                                                         t
+                                                                        ) [FactorChar]
+                                                                      ) [TermFactor]
+                                                                    ) [Term]
+                                                                  ) [TermExpression]
+                                                                ) [PrintSt]
+                                                              ) [Statement_List]
+                                                              PrintSt(
+                                                                TermExpression(
+                                                                  Term(
+                                                                    TermFactor(
+                                                                      FactorChar(
+                                                                        
+                                                                      ) [FactorChar]
+                                                                    ) [TermFactor]
+                                                                  ) [Term]
+                                                                ) [TermExpression]
+                                                              ) [PrintSt]
+                                                            ) [Statement_List]
+                                                            PrintSt(
+                                                              TermExpression(
+                                                                Term(
+                                                                  TermFactor(
+                                                                    FactorChar(
+                                                                     a
+                                                                    ) [FactorChar]
+                                                                  ) [TermFactor]
+                                                                ) [Term]
+                                                              ) [TermExpression]
+                                                            ) [PrintSt]
+                                                          ) [Statement_List]
+                                                          PrintSt(
+                                                            TermExpression(
+                                                              Term(
+                                                                TermFactor(
+                                                                  FactorChar(
+                                                                   r
+                                                                  ) [FactorChar]
+                                                                ) [TermFactor]
+                                                              ) [Term]
+                                                            ) [TermExpression]
+                                                          ) [PrintSt]
+                                                        ) [Statement_List]
+                                                        PrintSt(
+                                                          TermExpression(
+                                                            Term(
+                                                              TermFactor(
+                                                                FactorChar(
+                                                                 r
+                                                                ) [FactorChar]
+                                                              ) [TermFactor]
+                                                            ) [Term]
+                                                          ) [TermExpression]
+                                                        ) [PrintSt]
+                                                      ) [Statement_List]
+                                                      PrintSt(
+                                                        TermExpression(
+                                                          Term(
+                                                            TermFactor(
+                                                              FactorChar(
+                                                               E
+                                                              ) [FactorChar]
+                                                            ) [TermFactor]
+                                                          ) [Term]
+                                                        ) [TermExpression]
+                                                      ) [PrintSt]
+                                                    ) [Statement_List]
+                                                    PrintSt(
+                                                      TermExpression(
+                                                        Term(
+                                                          TermFactor(
+                                                            FactorChar(
+                                                             l
+                                                            ) [FactorChar]
+                                                          ) [TermFactor]
+                                                        ) [Term]
+                                                      ) [TermExpression]
+                                                    ) [PrintSt]
+                                                  ) [Statement_List]
+                                                  PrintSt(
+                                                    TermExpression(
+                                                      Term(
+                                                        TermFactor(
+                                                          FactorChar(
+                                                           e
+                                                          ) [FactorChar]
+                                                        ) [TermFactor]
+                                                      ) [Term]
+                                                    ) [TermExpression]
+                                                  ) [PrintSt]
+                                                ) [Statement_List]
+                                                PrintSt(
+                                                  TermExpression(
+                                                    Term(
+                                                      TermFactor(
+                                                        FactorChar(
+                                                         m
+                                                        ) [FactorChar]
+                                                      ) [TermFactor]
+                                                    ) [Term]
+                                                  ) [TermExpression]
+                                                ) [PrintSt]
+                                              ) [Statement_List]
+                                              PrintSt(
+                                                TermExpression(
+                                                  Term(
+                                                    TermFactor(
+                                                      FactorChar(
+                                                        
+                                                      ) [FactorChar]
+                                                    ) [TermFactor]
+                                                  ) [Term]
+                                                ) [TermExpression]
+                                              ) [PrintSt]
+                                            ) [Statement_List]
+                                            PrintSt(
+                                              TermExpression(
+                                                Term(
+                                                  TermFactor(
+                                                    FactorChar(
+                                                     i
+                                                    ) [FactorChar]
+                                                  ) [TermFactor]
+                                                ) [Term]
+                                              ) [TermExpression]
+                                            ) [PrintSt]
+                                          ) [Statement_List]
+                                          PrintSt(
+                                            TermExpression(
+                                              Term(
+                                                TermFactor(
+                                                  FactorChar(
+                                                   n
+                                                  ) [FactorChar]
+                                                ) [TermFactor]
+                                              ) [Term]
+                                            ) [TermExpression]
+                                          ) [PrintSt]
+                                        ) [Statement_List]
+                                        PrintSt(
+                                          TermExpression(
+                                            Term(
+                                              TermFactor(
+                                                FactorChar(
+                                                 c
+                                                ) [FactorChar]
+                                              ) [TermFactor]
+                                            ) [Term]
+                                          ) [TermExpression]
+                                        ) [PrintSt]
+                                      ) [Statement_List]
+                                      PrintSt(
+                                        TermExpression(
+                                          Term(
+                                            TermFactor(
+                                              FactorChar(
+                                               /
+                                              ) [FactorChar]
+                                            ) [TermFactor]
+                                          ) [Term]
+                                        ) [TermExpression]
+                                      ) [PrintSt]
+                                    ) [Statement_List]
+                                    PrintSt(
+                                      TermExpression(
+                                        Term(
+                                          TermFactor(
+                                            FactorChar(
+                                             d
+                                            ) [FactorChar]
+                                          ) [TermFactor]
+                                        ) [Term]
+                                      ) [TermExpression]
+                                    ) [PrintSt]
+                                  ) [Statement_List]
+                                  PrintSt(
+                                    TermExpression(
+                                      Term(
+                                        TermFactor(
+                                          FactorChar(
+                                           e
+                                          ) [FactorChar]
+                                        ) [TermFactor]
+                                      ) [Term]
+                                    ) [TermExpression]
+                                  ) [PrintSt]
+                                ) [Statement_List]
+                                PrintSt(
+                                  TermExpression(
+                                    Term(
+                                      TermFactor(
+                                        FactorChar(
+                                         c
+                                        ) [FactorChar]
+                                      ) [TermFactor]
+                                    ) [Term]
+                                  ) [TermExpression]
+                                ) [PrintSt]
+                              ) [Statement_List]
+                              PrintSt(
+                                TermExpression(
+                                  Term(
+                                    TermFactor(
+                                      FactorDesignator(
+                                        DesignatorExpr(
+                                          DesignatorName(
+                                           eol
+                                          ) [DesignatorName]
+                                          NoDesignatorList(
+                                          ) [NoDesignatorList]
+                                        ) [DesignatorExpr]
+                                        NoDesignatorPars(
+                                        ) [NoDesignatorPars]
+                                      ) [FactorDesignator]
+                                    ) [TermFactor]
+                                  ) [Term]
+                                ) [TermExpression]
+                              ) [PrintSt]
+                            ) [Statement_List]
+                            AssignDesig(
+                              DesignatorStatementOptionFirst(
+                                DesignatorZaDodeluExp(
+                                  DesignatorExpr(
+                                    DesignatorName(
+                                     niz
+                                    ) [DesignatorName]
+                                    NoDesignatorList(
+                                    ) [NoDesignatorList]
+                                  ) [DesignatorExpr]
+                                ) [DesignatorZaDodeluExp]
+                                Assignop(
+                                ) [Assignop]
+                                TermExpression(
+                                  Term(
+                                    TermFactor(
+                                      FactorNew(
+                                        Type(
+                                         int
+                                        ) [Type]
+                                        FactorExpression(
+                                          TermExpression(
+                                            Term(
+                                              TermFactor(
+                                                FactorNum(
+                                                 5
+                                                ) [FactorNum]
+                                              ) [TermFactor]
+                                            ) [Term]
+                                          ) [TermExpression]
+                                        ) [FactorExpression]
+                                      ) [FactorNew]
+                                    ) [TermFactor]
+                                  ) [Term]
+                                ) [TermExpression]
+                              ) [DesignatorStatementOptionFirst]
+                            ) [AssignDesig]
+                          ) [Statement_List]
+                          DesignatorSt(
+                            DesignatorStatementThird(
+                              DesignatorArr(
+                                DesignatorIdentArr(
+                                 niz
+                                ) [DesignatorIdentArr]
+                                TermExpression(
+                                  Term(
+                                    TermFactor(
+                                      FactorNum(
+                                       0
+                                      ) [FactorNum]
+                                    ) [TermFactor]
+                                  ) [Term]
+                                ) [TermExpression]
+                              ) [DesignatorArr]
+                              DesignatorStatementOptionPlusPlus(
+                              ) [DesignatorStatementOptionPlusPlus]
+                            ) [DesignatorStatementThird]
+                          ) [DesignatorSt]
+                        ) [Statement_List]
+                        DesignatorSt(
+                          DesignatorStatementThird(
+                            DesignatorArr(
+                              DesignatorIdentArr(
+                               niz
+                              ) [DesignatorIdentArr]
+                              TermExpression(
+                                Term(
+                                  TermFactor(
+                                    FactorNum(
+                                     4
+                                    ) [FactorNum]
+                                  ) [TermFactor]
+                                ) [Term]
+                              ) [TermExpression]
+                            ) [DesignatorArr]
+                            DesignatorStatementOptionMinusMinus(
+                            ) [DesignatorStatementOptionMinusMinus]
+                          ) [DesignatorStatementThird]
+                        ) [DesignatorSt]
+                      ) [Statement_List]
+                      DesignatorSt(
+                        DesignatorStatementThird(
+                          DesignatorArr(
+                            DesignatorIdentArr(
+                             niz
+                            ) [DesignatorIdentArr]
+                            TermExpression(
+                              Term(
+                                TermFactor(
+                                  ObicanDesignator(
+                                    DesignatorArr(
+                                      DesignatorIdentArr(
+                                       niz
+                                      ) [DesignatorIdentArr]
+                                      TermExpression(
+                                        Term(
+                                          TermFactor(
+                                            FactorNum(
+                                             0
+                                            ) [FactorNum]
+                                          ) [TermFactor]
+                                        ) [Term]
+                                      ) [TermExpression]
+                                    ) [DesignatorArr]
+                                  ) [ObicanDesignator]
+                                ) [TermFactor]
+                              ) [Term]
+                            ) [TermExpression]
+                          ) [DesignatorArr]
+                          DesignatorStatementOptionPlusPlus(
+                          ) [DesignatorStatementOptionPlusPlus]
+                        ) [DesignatorStatementThird]
+                      ) [DesignatorSt]
+                    ) [Statement_List]
+                    DesignatorSt(
+                      DesignatorStatementThird(
+                        DesignatorArr(
+                          DesignatorIdentArr(
+                           niz
+                          ) [DesignatorIdentArr]
+                          AddExpression(
+                            TermExpression(
+                              Term(
+                                Term_List(
+                                  TermFactor(
+                                    ObicanDesignator(
+                                      DesignatorArr(
+                                        DesignatorIdentArr(
+                                         niz
+                                        ) [DesignatorIdentArr]
+                                        TermExpression(
+                                          Term(
+                                            TermFactor(
+                                              FactorNum(
+                                               0
+                                              ) [FactorNum]
+                                            ) [TermFactor]
+                                          ) [Term]
+                                        ) [TermExpression]
+                                      ) [DesignatorArr]
+                                    ) [ObicanDesignator]
+                                  ) [TermFactor]
+                                  Multiply(
+                                  ) [Multiply]
+                                  FactorNum(
+                                   2
+                                  ) [FactorNum]
+                                ) [Term_List]
+                              ) [Term]
+                            ) [TermExpression]
+                            Add(
+                            ) [Add]
+                            Term(
+                              TermFactor(
+                                ObicanDesignator(
+                                  DesignatorArr(
+                                    DesignatorIdentArr(
+                                     niz
+                                    ) [DesignatorIdentArr]
+                                    TermExpression(
+                                      Term(
+                                        TermFactor(
+                                          FactorNum(
+                                           1
+                                          ) [FactorNum]
+                                        ) [TermFactor]
+                                      ) [Term]
+                                    ) [TermExpression]
+                                  ) [DesignatorArr]
+                                ) [ObicanDesignator]
+                              ) [TermFactor]
+                            ) [Term]
+                          ) [AddExpression]
+                        ) [DesignatorArr]
+                        DesignatorStatementOptionPlusPlus(
+                        ) [DesignatorStatementOptionPlusPlus]
+                      ) [DesignatorStatementThird]
+                    ) [DesignatorSt]
+                  ) [Statement_List]
+                  PrintSt(
+                    TermExpression(
+                      Term(
+                        TermFactor(
+                          ObicanDesignator(
+                            DesignatorArr(
+                              DesignatorIdentArr(
+                               niz
+                              ) [DesignatorIdentArr]
+                              TermExpression(
+                                Term(
+                                  TermFactor(
+                                    FactorNum(
+                                     0
+                                    ) [FactorNum]
+                                  ) [TermFactor]
+                                ) [Term]
+                              ) [TermExpression]
+                            ) [DesignatorArr]
+                          ) [ObicanDesignator]
+                        ) [TermFactor]
+                      ) [Term]
+                    ) [TermExpression]
+                  ) [PrintSt]
+                ) [Statement_List]
+                PrintSt(
+                  TermExpression(
+                    Term(
+                      TermFactor(
+                        ObicanDesignator(
+                          DesignatorArr(
+                            DesignatorIdentArr(
+                             niz
+                            ) [DesignatorIdentArr]
+                            TermExpression(
+                              Term(
+                                TermFactor(
+                                  FactorNum(
+                                   1
+                                  ) [FactorNum]
+                                ) [TermFactor]
+                              ) [Term]
+                            ) [TermExpression]
+                          ) [DesignatorArr]
+                        ) [ObicanDesignator]
+                      ) [TermFactor]
+                    ) [Term]
+                  ) [TermExpression]
+                ) [PrintSt]
+              ) [Statement_List]
+              PrintSt(
+                TermExpression(
+                  Term(
+                    TermFactor(
+                      ObicanDesignator(
+                        DesignatorArr(
+                          DesignatorIdentArr(
+                           niz
+                          ) [DesignatorIdentArr]
+                          TermExpression(
+                            Term(
+                              TermFactor(
+                                FactorNum(
+                                 2
+                                ) [FactorNum]
+                              ) [TermFactor]
+                            ) [Term]
+                          ) [TermExpression]
+                        ) [DesignatorArr]
+                      ) [ObicanDesignator]
+                    ) [TermFactor]
+                  ) [Term]
+                ) [TermExpression]
+              ) [PrintSt]
+            ) [Statement_List]
+            PrintSt(
+              TermExpression(
+                Term(
+                  TermFactor(
+                    ObicanDesignator(
+                      DesignatorArr(
+                        DesignatorIdentArr(
+                         niz
+                        ) [DesignatorIdentArr]
+                        TermExpression(
+                          Term(
+                            TermFactor(
+                              FactorNum(
+                               3
+                              ) [FactorNum]
+                            ) [TermFactor]
+                          ) [Term]
+                        ) [TermExpression]
+                      ) [DesignatorArr]
+                    ) [ObicanDesignator]
+                  ) [TermFactor]
+                ) [Term]
+              ) [TermExpression]
+            ) [PrintSt]
+          ) [Statement_List]
+          PrintSt(
+            TermExpression(
+              Term(
+                TermFactor(
+                  ObicanDesignator(
+                    DesignatorArr(
+                      DesignatorIdentArr(
+                       niz
+                      ) [DesignatorIdentArr]
+                      TermExpression(
+                        Term(
+                          TermFactor(
+                            FactorNum(
+                             4
+                            ) [FactorNum]
+                          ) [TermFactor]
+                        ) [Term]
+                      ) [TermExpression]
+                    ) [DesignatorArr]
+                  ) [ObicanDesignator]
+                ) [TermFactor]
+              ) [Term]
+            ) [TermExpression]
+          ) [PrintSt]
+        ) [Statement_List]
+        PrintSt(
+          TermExpression(
+            Term(
+              TermFactor(
+                FactorDesignator(
+                  DesignatorExpr(
+                    DesignatorName(
+                     eol
+                    ) [DesignatorName]
+                    NoDesignatorList(
+                    ) [NoDesignatorList]
+                  ) [DesignatorExpr]
+                  NoDesignatorPars(
+                  ) [NoDesignatorPars]
+                ) [FactorDesignator]
+              ) [TermFactor]
+            ) [Term]
+          ) [TermExpression]
+        ) [PrintSt]
+      ) [Statement_List]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  15:18:06,383 - ===================================
+INFO  15:18:06,387 - Prepoznao promenljivu:a  trenutni tip je: 1 na liniji 2
+INFO  15:18:06,387 - Prepoznao promenljivu:b  trenutni tip je: 1 na liniji 2
+INFO  15:18:06,387 - Prepoznao promenljivu:c  trenutni tip je: 1 na liniji 2
+INFO  15:18:06,387 - Prepoznao promenljivu:d  trenutni tip je: 1 na liniji 2
+INFO  15:18:06,387 - Prepoznao promenljivu:e  trenutni tip je: 1 na liniji 2
+INFO  15:18:06,387 - Prepoznao promenljivu:intArray  trenutni tip je: 1 na liniji 2
+INFO  15:18:06,388 - Prepoznao promenljivu:niz  trenutni tip je: 1 na liniji 2
+INFO  15:18:06,388 - Prepoznao promenljivu:nizTmp  trenutni tip je: 1 na liniji 2
+INFO  15:18:06,388 - Prepoznao promenljivu:nizIndex  trenutni tip je: 1 na liniji 2
+INFO  15:18:06,388 - Prepoznao VOID metodu:main na liniji 4
+INFO  15:18:06,388 - ===================================
+INFO  15:18:06,391 - Parsiranje uspesno zavrseno

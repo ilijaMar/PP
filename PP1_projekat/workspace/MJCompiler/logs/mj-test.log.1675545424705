@@ -1,0 +1,12 @@
+INFO  22:14:39,953 - Compiling source file: C:\Users\Ilija\Desktop\PP1\radi-sintaksna - Copy\workspace\MJCompiler\test\program.mj
+INFO  22:14:39,991 - #2 program
+INFO  22:14:39,991 - #17 syntax_errors
+INFO  22:14:39,992 - #17 int
+INFO  22:14:39,993 - #17 a
+INFO  22:14:39,994 - #22 +
+ERROR 22:14:39,994 - 
+Sintaksna greska na liniji 3
+INFO  22:14:39,994 - #38 ;
+INFO  22:14:39,994 - #46 {
+INFO  22:14:39,994 - #13 void
+INFO  22:14:39,994 - #17 main

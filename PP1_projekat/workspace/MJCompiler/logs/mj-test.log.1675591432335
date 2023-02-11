@@ -1,0 +1,448 @@
+INFO  10:58:12,620 - Compiling source file: C:\Users\Ilija\Desktop\PP1\radi-sintaksna - Copy\workspace\MJCompiler\test\program.mj
+INFO  10:58:12,656 - #2 program
+INFO  10:58:12,656 - #17 test301
+INFO  10:58:12,656 - #6 const
+INFO  10:58:12,657 - #17 int
+INFO  10:58:12,657 - #17 nula
+INFO  10:58:12,657 - #35 =
+INFO  10:58:12,657 - #16 0
+INFO  10:58:12,658 - #38 ;
+INFO  10:58:12,658 - #6 const
+INFO  10:58:12,658 - #17 int
+INFO  10:58:12,658 - #17 jedan
+INFO  10:58:12,658 - #35 =
+INFO  10:58:12,658 - #16 1
+INFO  10:58:12,659 - #38 ;
+INFO  10:58:12,659 - #6 const
+INFO  10:58:12,659 - #17 int
+INFO  10:58:12,659 - #17 pet
+INFO  10:58:12,659 - #35 =
+INFO  10:58:12,659 - #16 5
+INFO  10:58:12,659 - #38 ;
+INFO  10:58:12,659 - #17 int
+INFO  10:58:12,659 - #17 niz
+INFO  10:58:12,660 - #44 [
+INFO  10:58:12,660 - #45 ]
+INFO  10:58:12,661 - #40 ,
+INFO  10:58:12,661 - #17 niz2
+INFO  10:58:12,661 - #44 [
+INFO  10:58:12,661 - #45 ]
+INFO  10:58:12,661 - #40 ,
+INFO  10:58:12,661 - #17 a
+INFO  10:58:12,662 - #40 ,
+INFO  10:58:12,662 - #17 b
+INFO  10:58:12,662 - #38 ;
+INFO  10:58:12,662 - #17 char
+INFO  10:58:12,662 - #17 nizch
+INFO  10:58:12,662 - #44 [
+INFO  10:58:12,662 - #45 ]
+INFO  10:58:12,662 - #38 ;
+INFO  10:58:12,662 - #46 {
+INFO  10:58:12,663 - #13 void
+INFO  10:58:12,663 - #17 main
+INFO  10:58:12,663 - #42 (
+INFO  10:58:12,663 - #43 )
+INFO  10:58:12,664 - #17 int
+INFO  10:58:12,664 - #17 bodovi
+INFO  10:58:12,664 - #38 ;
+INFO  10:58:12,665 - #17 bool
+INFO  10:58:12,665 - #17 bt
+INFO  10:58:12,665 - #38 ;
+INFO  10:58:12,665 - #46 {
+INFO  10:58:12,665 - #17 niz
+INFO  10:58:12,665 - #35 =
+INFO  10:58:12,666 - #10 new
+INFO  10:58:12,667 - #17 int
+INFO  10:58:12,667 - #44 [
+INFO  10:58:12,667 - #16 3
+INFO  10:58:12,667 - #45 ]
+INFO  10:58:12,668 - #38 ;
+INFO  10:58:12,668 - #17 niz
+INFO  10:58:12,668 - #35 =
+INFO  10:58:12,668 - #44 [
+INFO  10:58:12,668 - #16 1
+INFO  10:58:12,668 - #40 ,
+INFO  10:58:12,669 - #16 2
+INFO  10:58:12,669 - #40 ,
+INFO  10:58:12,669 - #16 3
+INFO  10:58:12,669 - #45 ]
+INFO  10:58:12,669 - #38 ;
+INFO  10:58:12,669 - #11 print
+INFO  10:58:12,669 - #42 (
+INFO  10:58:12,669 - #17 niz
+INFO  10:58:12,670 - #44 [
+INFO  10:58:12,670 - #16 0
+INFO  10:58:12,670 - #45 ]
+INFO  10:58:12,670 - #43 )
+INFO  10:58:12,671 - #38 ;
+INFO  10:58:12,671 - #11 print
+INFO  10:58:12,671 - #42 (
+INFO  10:58:12,671 - #17 niz
+INFO  10:58:12,671 - #44 [
+INFO  10:58:12,671 - #16 1
+INFO  10:58:12,671 - #45 ]
+INFO  10:58:12,671 - #43 )
+INFO  10:58:12,671 - #38 ;
+INFO  10:58:12,672 - #11 print
+INFO  10:58:12,672 - #42 (
+INFO  10:58:12,672 - #17 niz
+INFO  10:58:12,672 - #44 [
+INFO  10:58:12,672 - #16 2
+INFO  10:58:12,672 - #45 ]
+INFO  10:58:12,672 - #43 )
+INFO  10:58:12,672 - #38 ;
+INFO  10:58:12,672 - #47 }
+INFO  10:58:12,673 - #47 }
+INFO  10:58:12,677 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  Declarations(
+    Declarations(
+      Declarations(
+        Declarations(
+          Declarations(
+            NoDeclarationList(
+            ) [NoDeclarationList]
+            ConstDeclaration(
+              ConstDeclarationn(
+                ConstType(
+                  Type(
+                   int
+                  ) [Type]
+                ) [ConstType]
+                ConstIdentt(
+                 nula
+                  NumConst(
+                   0
+                  ) [NumConst]
+                ) [ConstIdentt]
+                NoConstIdents(
+                ) [NoConstIdents]
+              ) [ConstDeclarationn]
+            ) [ConstDeclaration]
+          ) [Declarations]
+          ConstDeclaration(
+            ConstDeclarationn(
+              ConstType(
+                Type(
+                 int
+                ) [Type]
+              ) [ConstType]
+              ConstIdentt(
+               jedan
+                NumConst(
+                 1
+                ) [NumConst]
+              ) [ConstIdentt]
+              NoConstIdents(
+              ) [NoConstIdents]
+            ) [ConstDeclarationn]
+          ) [ConstDeclaration]
+        ) [Declarations]
+        ConstDeclaration(
+          ConstDeclarationn(
+            ConstType(
+              Type(
+               int
+              ) [Type]
+            ) [ConstType]
+            ConstIdentt(
+             pet
+              NumConst(
+               5
+              ) [NumConst]
+            ) [ConstIdentt]
+            NoConstIdents(
+            ) [NoConstIdents]
+          ) [ConstDeclarationn]
+        ) [ConstDeclaration]
+      ) [Declarations]
+      VarDeclaration(
+        Var_Declaration(
+          VarType(
+            Type(
+             int
+            ) [Type]
+          ) [VarType]
+          VarIdent_List(
+            VarIdent_List(
+              VarIdent_List(
+                NoVarIdentList(
+                ) [NoVarIdentList]
+                Var_Ident(
+                 niz
+                  ArrayDeclaration(
+                    NoArrayDeclaration(
+                    ) [NoArrayDeclaration]
+                  ) [ArrayDeclaration]
+                ) [Var_Ident]
+              ) [VarIdent_List]
+              Var_Ident(
+               niz2
+                ArrayDeclaration(
+                  NoArrayDeclaration(
+                  ) [NoArrayDeclaration]
+                ) [ArrayDeclaration]
+              ) [Var_Ident]
+            ) [VarIdent_List]
+            Var_Ident(
+             a
+              NoArrayDeclaration(
+              ) [NoArrayDeclaration]
+            ) [Var_Ident]
+          ) [VarIdent_List]
+          Var_Ident(
+           b
+            NoArrayDeclaration(
+            ) [NoArrayDeclaration]
+          ) [Var_Ident]
+        ) [Var_Declaration]
+      ) [VarDeclaration]
+    ) [Declarations]
+    VarDeclaration(
+      Var_Declaration(
+        VarType(
+          Type(
+           char
+          ) [Type]
+        ) [VarType]
+        NoVarIdentList(
+        ) [NoVarIdentList]
+        Var_Ident(
+         nizch
+          ArrayDeclaration(
+            NoArrayDeclaration(
+            ) [NoArrayDeclaration]
+          ) [ArrayDeclaration]
+        ) [Var_Ident]
+      ) [Var_Declaration]
+    ) [VarDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodNameVoid(
+       main
+      ) [MethodNameVoid]
+      NoFormParsList(
+      ) [NoFormParsList]
+      VarDeclarations(
+        VarDeclarations(
+          NoVarDecl(
+          ) [NoVarDecl]
+          Var_Declaration(
+            VarType(
+              Type(
+               int
+              ) [Type]
+            ) [VarType]
+            NoVarIdentList(
+            ) [NoVarIdentList]
+            Var_Ident(
+             bodovi
+              NoArrayDeclaration(
+              ) [NoArrayDeclaration]
+            ) [Var_Ident]
+          ) [Var_Declaration]
+        ) [VarDeclarations]
+        Var_Declaration(
+          VarType(
+            Type(
+             bool
+            ) [Type]
+          ) [VarType]
+          NoVarIdentList(
+          ) [NoVarIdentList]
+          Var_Ident(
+           bt
+            NoArrayDeclaration(
+            ) [NoArrayDeclaration]
+          ) [Var_Ident]
+        ) [Var_Declaration]
+      ) [VarDeclarations]
+      Statement_List(
+        Statement_List(
+          Statement_List(
+            Statement_List(
+              Statement_List(
+                NoStatementList(
+                ) [NoStatementList]
+                AssignDesig(
+                  DesignatorStatementOptionFirst(
+                    DesignatorZaDodeluExp(
+                      DesignatorExpr(
+                        DesignatorName(
+                         niz
+                        ) [DesignatorName]
+                        NoDesignatorList(
+                        ) [NoDesignatorList]
+                      ) [DesignatorExpr]
+                    ) [DesignatorZaDodeluExp]
+                    Assignop(
+                    ) [Assignop]
+                    TermExpression(
+                      Term(
+                        TermFactor(
+                          FactorNew(
+                            Type(
+                             int
+                            ) [Type]
+                            FactorExpression(
+                              TermExpression(
+                                Term(
+                                  TermFactor(
+                                    FactorNum(
+                                     3
+                                    ) [FactorNum]
+                                  ) [TermFactor]
+                                ) [Term]
+                              ) [TermExpression]
+                            ) [FactorExpression]
+                          ) [FactorNew]
+                        ) [TermFactor]
+                      ) [Term]
+                    ) [TermExpression]
+                  ) [DesignatorStatementOptionFirst]
+                ) [AssignDesig]
+              ) [Statement_List]
+              AssignDesig(
+                StModifikacija(
+                  DesignatorZaDodeluExp(
+                    DesignatorExpr(
+                      DesignatorName(
+                       niz
+                      ) [DesignatorName]
+                      NoDesignatorList(
+                      ) [NoDesignatorList]
+                    ) [DesignatorExpr]
+                  ) [DesignatorZaDodeluExp]
+                  SamoExprList(
+                    SamoExprList(
+                      SamoExpr(
+                        TermExpression(
+                          Term(
+                            TermFactor(
+                              FactorNum(
+                               1
+                              ) [FactorNum]
+                            ) [TermFactor]
+                          ) [Term]
+                        ) [TermExpression]
+                      ) [SamoExpr]
+                      TermExpression(
+                        Term(
+                          TermFactor(
+                            FactorNum(
+                             2
+                            ) [FactorNum]
+                          ) [TermFactor]
+                        ) [Term]
+                      ) [TermExpression]
+                    ) [SamoExprList]
+                    TermExpression(
+                      Term(
+                        TermFactor(
+                          FactorNum(
+                           3
+                          ) [FactorNum]
+                        ) [TermFactor]
+                      ) [Term]
+                    ) [TermExpression]
+                  ) [SamoExprList]
+                ) [StModifikacija]
+              ) [AssignDesig]
+            ) [Statement_List]
+            PrintSt(
+              TermExpression(
+                Term(
+                  TermFactor(
+                    ObicanDesignator(
+                      DesignatorArr(
+                        DesignatorIdentArr(
+                         niz
+                        ) [DesignatorIdentArr]
+                        TermExpression(
+                          Term(
+                            TermFactor(
+                              FactorNum(
+                               0
+                              ) [FactorNum]
+                            ) [TermFactor]
+                          ) [Term]
+                        ) [TermExpression]
+                      ) [DesignatorArr]
+                    ) [ObicanDesignator]
+                  ) [TermFactor]
+                ) [Term]
+              ) [TermExpression]
+            ) [PrintSt]
+          ) [Statement_List]
+          PrintSt(
+            TermExpression(
+              Term(
+                TermFactor(
+                  ObicanDesignator(
+                    DesignatorArr(
+                      DesignatorIdentArr(
+                       niz
+                      ) [DesignatorIdentArr]
+                      TermExpression(
+                        Term(
+                          TermFactor(
+                            FactorNum(
+                             1
+                            ) [FactorNum]
+                          ) [TermFactor]
+                        ) [Term]
+                      ) [TermExpression]
+                    ) [DesignatorArr]
+                  ) [ObicanDesignator]
+                ) [TermFactor]
+              ) [Term]
+            ) [TermExpression]
+          ) [PrintSt]
+        ) [Statement_List]
+        PrintSt(
+          TermExpression(
+            Term(
+              TermFactor(
+                ObicanDesignator(
+                  DesignatorArr(
+                    DesignatorIdentArr(
+                     niz
+                    ) [DesignatorIdentArr]
+                    TermExpression(
+                      Term(
+                        TermFactor(
+                          FactorNum(
+                           2
+                          ) [FactorNum]
+                        ) [TermFactor]
+                      ) [Term]
+                    ) [TermExpression]
+                  ) [DesignatorArr]
+                ) [ObicanDesignator]
+              ) [TermFactor]
+            ) [Term]
+          ) [TermExpression]
+        ) [PrintSt]
+      ) [Statement_List]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  10:58:12,677 - ===================================
+INFO  10:58:12,679 - Prepoznao konstantu: nula na liniji 5
+INFO  10:58:12,679 - Prepoznao konstantu: jedan na liniji 6
+INFO  10:58:12,679 - Prepoznao konstantu: pet na liniji 7
+INFO  10:58:12,679 - Prepoznao promenljivu:niz  trenutni tip je: 1 na liniji 9
+INFO  10:58:12,680 - Prepoznao promenljivu:niz2  trenutni tip je: 1 na liniji 9
+INFO  10:58:12,680 - Prepoznao promenljivu:a  trenutni tip je: 1 na liniji 9
+INFO  10:58:12,680 - Prepoznao promenljivu:b  trenutni tip je: 1 na liniji 9
+INFO  10:58:12,680 - Prepoznao promenljivu:nizch  trenutni tip je: 2 na liniji 10
+INFO  10:58:12,680 - Prepoznao VOID metodu:main na liniji 13
+INFO  10:58:12,680 - Prepoznao promenljivu:bodovi  trenutni tip je: 1 na liniji 14
+INFO  10:58:12,680 - Prepoznao promenljivu:bt  trenutni tip je: 5 na liniji 15
+INFO  10:58:12,681 - ===================================
+INFO  10:58:12,683 - Parsiranje uspesno zavrseno

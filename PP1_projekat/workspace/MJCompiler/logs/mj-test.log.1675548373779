@@ -1,0 +1,107 @@
+INFO  23:05:34,466 - Compiling source file: C:\Users\Ilija\Desktop\PP1\radi-sintaksna - Copy\workspace\MJCompiler\test\program.mj
+INFO  23:05:34,505 - #2 program
+INFO  23:05:34,505 - #17 syntax_errors
+INFO  23:05:34,505 - #17 int
+INFO  23:05:34,506 - #17 a
+INFO  23:05:34,507 - #22 +
+ERROR 23:05:34,507 - 
+Sintaksna greska na liniji 3
+INFO  23:05:34,507 - #38 ;
+INFO  23:05:34,507 - #17 int
+INFO  23:05:34,507 - #17 b
+INFO  23:05:34,508 - #22 +
+ERROR 23:05:34,508 -  -Izvrsen oporavak **DEKL** do ; u liniji 0
+ERROR 23:05:34,508 - 
+Sintaksna greska na liniji 4
+INFO  23:05:34,508 - #38 ;
+INFO  23:05:34,508 - #46 {
+INFO  23:05:34,508 - #13 void
+INFO  23:05:34,508 - #17 main
+ERROR 23:05:34,508 -  -Izvrsen oporavak **DEKL** do ; u liniji 0
+INFO  23:05:34,509 - #42 (
+INFO  23:05:34,509 - #43 )
+INFO  23:05:34,510 - #46 {
+INFO  23:05:34,510 - #17 b
+INFO  23:05:34,511 - #35 =
+INFO  23:05:34,514 - #16 1
+INFO  23:05:34,515 - #22 +
+INFO  23:05:34,515 - #16 2
+INFO  23:05:34,517 - #22 +
+INFO  23:05:34,517 - #38 ;
+ERROR 23:05:34,517 - 
+Sintaksna greska na liniji 11
+INFO  23:05:34,517 - #11 print
+INFO  23:05:34,518 - #42 (
+INFO  23:05:34,518 - #16 5
+ERROR 23:05:34,518 -  -Izvrsen oporavak **DODELA** do ; u liniji 11
+INFO  23:05:34,518 - #43 )
+INFO  23:05:34,519 - #38 ;
+INFO  23:05:34,519 - #47 }
+INFO  23:05:34,519 - #47 }
+INFO  23:05:34,523 - Program(
+  ProgName(
+   syntax_errors
+  ) [ProgName]
+  Declarations(
+    Declarations(
+      NoDeclarationList(
+      ) [NoDeclarationList]
+      VarDeclaration(
+        VarDeclError(
+          VarType(
+            Type(
+             int
+            ) [Type]
+          ) [VarType]
+        ) [VarDeclError]
+      ) [VarDeclaration]
+    ) [Declarations]
+    VarDeclaration(
+      VarDeclError(
+        VarType(
+          Type(
+           int
+          ) [Type]
+        ) [VarType]
+      ) [VarDeclError]
+    ) [VarDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodNameVoid(
+       main
+      ) [MethodNameVoid]
+      NoFormParsList(
+      ) [NoFormParsList]
+      NoVarDecl(
+      ) [NoVarDecl]
+      Statement_List(
+        Statement_List(
+          NoStatementList(
+          ) [NoStatementList]
+          AssignExpressionError(
+          ) [AssignExpressionError]
+        ) [Statement_List]
+        PrintSt(
+          TermExpression(
+            Term(
+              TermFactor(
+                FactorNum(
+                 5
+                ) [FactorNum]
+              ) [TermFactor]
+            ) [Term]
+          ) [TermExpression]
+        ) [PrintSt]
+      ) [Statement_List]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  23:05:34,523 - ===================================
+INFO  23:05:34,526 - Prepoznao VOID metodu:main na liniji 10
+INFO  23:05:34,526 - ===================================
+INFO  23:05:34,527 - Parsiranje NIJE uspesno zavrseno
+INFO  23:05:34,527 - GRESAKA U PARS:true
+INFO  23:05:34,527 - GRESAKA U SEM:false
